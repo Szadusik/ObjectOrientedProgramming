@@ -1,0 +1,13 @@
+{
+  "mapWidth": 50,
+  "mapHeight": 50,
+  "jungleWidth": 25,
+  "jungleHeight": 25,
+  "grassEatingEnergyProfit": 20,
+  "dayEnergyCost": 1,
+  "animalsStartEnergy": 40,
+  "numOfSpawnedAnimals": 10,
+  "delay": 30,
+  "grassSpawnedInEachDay": 4,
+  "daysToSaveFile": 450
+}

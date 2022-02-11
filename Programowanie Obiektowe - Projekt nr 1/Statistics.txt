@@ -1,0 +1,17 @@
+Number of days passed is 450
+
+Data for the first map
+
+Average amount of animals on map is 50
+Average amount of grass on map is 376
+Average amount of alive children of alive parents between days is 0.45526156
+Average amount of lifespan for dead animals between days is 36.649456
+The most dominating gene is 3
+
+Data for the second map
+
+Average amount of animals on map is 43
+Average amount of grass on map is 438
+Average amount of alive children of alive parents between days is 0.45176962
+Average amount of lifespan for dead animals between days is 41.6765
+The most dominating gene is 0
